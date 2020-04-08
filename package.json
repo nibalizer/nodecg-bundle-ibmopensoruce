@@ -26,7 +26,7 @@
     "dashboardPanels": [
       {
         "name": "ibmopensource",
-        "title": "Ibmopensource",
+        "title": "IBM Open Source",
         "width": 2,
         "file": "ibmopensource.html",
         "headerColor": "#525F78"
